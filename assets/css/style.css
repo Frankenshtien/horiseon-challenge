@@ -5,6 +5,17 @@
 
 }
 
+/*things to float*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /*header*/
 header {
     padding: 20px;
@@ -118,13 +129,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/*things to float*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
